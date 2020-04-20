@@ -107,6 +107,19 @@ p {
   margin-top: 0;
   margin-bottom: 1rem;
 }
+.container-audio {
+    width: 66%;
+    height: auto;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #eee;
+    color: #444;
+    margin: 20px auto;
+    overflow: hidden;
+}
+audio {
+  width:100%;
+}
 
 abbr[title],
 abbr[data-original-title] {
