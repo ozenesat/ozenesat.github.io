@@ -58,7 +58,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
 
-.about-picture{background-image:url(../assets/img/esat.jpeg);background-size:cover;background-position:center;border-radius:50%;height:39vh;margin:2rem auto;width:37vh}
+.about-picture{background-image:url(../assets/img/esat.jpg);background-size:cover;background-position:center;border-radius:50%;height:39vh;margin:2rem auto;width:37vh}
 
 body {
   margin: 0;
